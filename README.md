@@ -1,4 +1,4 @@
-# NewReleasesSpotifyUK
+# New releases Spotify Uk
 The most 20 recent releases on Spotify UK 
 
 A simple app that shows the most recent 20 UK songs or albums in the UK.
